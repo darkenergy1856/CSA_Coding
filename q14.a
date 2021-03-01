@@ -1,0 +1,13 @@
+  ;assembly program to input a no.   
+      
+READ    ; this statement will read a no. from keyboard
+        ; and store in ac register
+ 
+
+ADD 1 82   ; this will store the result back to AC
+ 
+
+WRITE      ; This will display the content of AC
+
+
+STOP 

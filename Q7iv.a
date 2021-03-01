@@ -1,0 +1,6 @@
+INP
+BUN JUMP
+OUT
+JUMP: HLT
+
+NUM: .data 1 0
